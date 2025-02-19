@@ -2,7 +2,7 @@
 
 🚀 Deep Learning | Medical Image Analysis | Segmentation
 
-Welcome to my Computer Vision portfolio! I specialize in deep learning for medical imaging, particularly segmentation tasks using nnU-Net. My projects focus on automating medical diagnostics using state-of-the-art deep learning models.
+Welcome to my Computer Vision portfolio! I specialize in deep learning for medical imaging, particularly segmentation aand classification tasks. My projects focus on automating medical diagnostics using state-of-the-art deep learning models.
 
 📌 Projects
 
