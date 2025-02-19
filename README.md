@@ -1,2 +1,2 @@
-# ComputerVisionPortfolio.github.io
+# Computer Vision Portfolio
 Computer Vision Portfolio
