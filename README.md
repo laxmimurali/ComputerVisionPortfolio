@@ -20,7 +20,7 @@ Developed a deep learning pipeline using nnU-Net for automatic prostate segmenta
 
 ✅ Trained nnU-Net with optimized hyperparameters
 
-✅ Evaluated results using Dice coefficient, IoU, Hausdorff distance
+✅ Evaluated results using Dice coefficient
 
 🔹 Dataset: ProstateX dataset
 
